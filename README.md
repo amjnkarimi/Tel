@@ -11,7 +11,7 @@ This is a basic chat app built with Flutter. It includes:
 ### 🚀 How to Run
 
 ```bash
-git clone https://github.com/amjnkarimi/Tel
+git clone https://github.com/Moxikist/Tel
 flutter pub get
 flutter run
 ```
