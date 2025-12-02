@@ -1,6 +1,3 @@
-Sure thing Amin! Here's a short and clean English version of your `README.md` for GitHub:
-
----
 
 ## 📱 Simple Chat App (Flutter)
 
@@ -25,7 +22,3 @@ flutter run
 - Save messages locally
 - Show message timestamps
 - Improve UI design
-
----
-
-Let me know if you want a version with screenshots, badges, or GitHub formatting tips!
